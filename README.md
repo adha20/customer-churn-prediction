@@ -46,7 +46,7 @@ The dataset used in this project is provided by DQLab and can be accessed from t
 
 ---
 
-### 📋 Feature Descriptions
+### Feature Descriptions
 
 | Feature             | Description |
 |---------------------|-------------|
